@@ -1,8 +1,8 @@
 # userChrome
 
-Proton was getting on my nerves. I used the default light Photon theme.
+I didn't like Proton very much. Previously I used the default light Photon theme.
 
-I do a lot of repetitive mouse/keyboard stuff and I kept clicking on a bubbly tab instead of the search bar text box.
+I do a lot of repetitive mouse/keyboard stuff and I kept clicking on a bubbly tab instead of the search bar text box or vice versa.
 
 The Firefox Color add-on  (https://color.firefox.com/) is helpful and or you can go ahead and download 
 a Photon Theme (https://addons.mozilla.org/en-US/firefox/addon/photon-colors/) 
