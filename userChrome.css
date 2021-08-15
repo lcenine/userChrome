@@ -29,6 +29,8 @@ menuseparator {
 	background: white !important;
 }
 
+
+
 .searchbar-textbox {
 	background: white !important;
 }
@@ -44,3 +46,9 @@ menuseparator {
 .tab-background {
 	box-shadow: none !important;
 }
+
+#urlbar-input::selection {
+     color: white !important;   
+}
+
+
