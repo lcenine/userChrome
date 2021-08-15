@@ -1,0 +1,46 @@
+/* Brings back some Photon familiarity can be  used in conjunction           */ 
+/* with https://addons.mozilla.org/en-US/firefox/addon/photon-colors/        */ 
+/* or roll your own with https://color.firefox.com                           */ 
+
+menupopup,
+panel {
+	min-width: 1px;
+	--panel-background: #f2f2f2 !important;
+	--panel-color: #000000 !important;
+	--menu-disabled-color: #888888 !important;
+	--menuitem-hover-background-color: #91c9f7 !important;
+	--menuitem-disabled-hover-background-color: #e5e5e5 !important;
+	--menu-color: #000000 !important;
+}
+
+menuseparator {
+	border-top: 1px solid #CCCCCC !important;
+}
+
+.search-panel-tree {
+	background: #FFFFFF !important;
+}
+
+#PopupSearchAutoComplete {
+	--panel-background: white !important;
+}
+
+#urlbar-background {
+	background: white !important;
+}
+
+.searchbar-textbox {
+	background: white !important;
+}
+
+#TabsToolbar {
+	margin-bottom: -3px !important;
+}
+
+.tabbrowser-tab {
+	--tab-border-radius: 0px !important;
+}
+
+.tab-background {
+	box-shadow: none !important;
+}
