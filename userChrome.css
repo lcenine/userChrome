@@ -51,4 +51,6 @@ menuseparator {
      color: white !important;   
 }
 
-
+.searchbar-textbox::selection { 
+	color:white !important;
+}
